@@ -1,0 +1,19 @@
+# QML / Qt caches
+*.qmlc
+*.jsc
+qmlcache/
+
+# Runtime files (written by Omarchy / the plugin at runtime, not part of the repo)
+shell.json
+state.json
+*.bak
+*.bak.*
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*~
+*.swp
+.idea/
+.vscode/
+node_modules/

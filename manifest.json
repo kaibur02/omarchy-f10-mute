@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.kaibur02.omarchy-f10-mute",
+  "name": "F10 Mute",
+  "version": "1.0.0",
+  "author": "kaibur02",
+  "license": "MIT",
+  "description": "Press F10 to mute or unmute only the focused app. A small click-through speaker badge fades in on that app's window.",
+  "kinds": [
+    "service"
+  ],
+  "entryPoints": {
+    "service": "Service.qml"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "corner": "top-right",
+  "margin": 24,
+  "size": 64,
+  "opacity": 0.7,
+  "holdMs": 1000,
+  "fadeMs": 400
+}
